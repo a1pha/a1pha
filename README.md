@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @a1pha
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a1pha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
